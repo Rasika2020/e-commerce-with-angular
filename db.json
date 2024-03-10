@@ -1,0 +1,116 @@
+{
+  "seller": [
+    {
+      "id": "d262",
+      "name": "Rasika Kulkarni",
+      "email": "rasika@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "ca30",
+      "name": "Jessica Pearson",
+      "email": "jessica@seller.com",
+      "password": "jess@123"
+    },
+    {
+      "id": "2659",
+      "name": "John Doe",
+      "password": "Joh@123",
+      "email": "joh@seller.com"
+    },
+    {
+      "id": "66bc",
+      "name": "Ritz",
+      "password": "rit@123",
+      "email": "ritz@seller.com"
+    },
+    {
+      "id": "3433",
+      "name": "John Doe",
+      "password": "dce@123",
+      "email": "abc@seller.com"
+    },
+    {
+      "id": "6b52",
+      "name": "jay",
+      "password": "jay@123",
+      "email": "abc@seller.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 13 pro",
+      "price": "1000000",
+      "color": "pink",
+      "category": "mobiles",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoQt0EsAdSsAZSYCN1cgiBjpKaKJGinZ7td0tEVQa6HBiBJgrjMf1vt87ltGoLeoo9lI&usqp=CAU",
+      "description": "Splash, Water, and Dust Resistant 3 Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529.",
+      "id": "9ee0"
+    },
+    {
+      "name": "One plus Nord",
+      "price": "29999",
+      "color": "blue",
+      "category": "Mobiles",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/d53d8d38-ddcd-433a-b579-5498bf182d6e23121151.jpg",
+      "description": "RAM | ROM. 6 GB RAM | 64 GB ROM ; Processor. Qualcomm® Snapdragon™ 765G | Octa Core | 2.4 GHz ",
+      "id": "86aa"
+    },
+    {
+      "id": "9357",
+      "name": "Remi note 3",
+      "price": "15999",
+      "color": "grey",
+      "category": "Mobiles",
+      "image": "https://m.media-amazon.com/images/I/51QIiaVt65L._AC_UF1000,1000_QL80_.jpg",
+      "description": "OS, Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow), MIUI 9.5 ; Chipset, Qualcomm MSM8956 Snapdragon 650"
+    },
+    {
+      "name": "mac book",
+      "price": "150000",
+      "color": "black",
+      "category": "Laptop",
+      "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg",
+      "description": "Pro with M3, M3 Pro and M3 Max chips. Up to 22 hours of battery life. The world's best laptop display.",
+      "id": "4090"
+    },
+    {
+      "name": "One plus nord 2",
+      "price": "29999",
+      "color": "green",
+      "category": "Mobiles",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/nord-series/pac-man/gray-3-d48255.jpg.webp",
+      "description": "OnePlus Nord 2 5G · Released 2021, July 28 · 189g, 8.3mm thickness · Android 11, OxygenOS 11.3",
+      "id": "51ee"
+    },
+    {
+      "id": "1d53",
+      "name": "iPhone 14 pro",
+      "price": "89999",
+      "color": "yellow",
+      "category": "mobiles",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/lifestyle/Apple-iPhone-14-iPhone-14-Plus-yellow-2up-230307_inline.jpg.large.jpg",
+      "description": "A beautiful yellow joins the lineup, with incredible battery life, a powerful dual-camera system for pro-level photos and videos, and groundbreaking safety capabilities, including Emergency SOS via satellite and Crash Detection"
+    }
+  ],
+  "users": [
+    {
+      "id": "e4ab",
+      "name": "Rasika",
+      "email": "rasika@user.com",
+      "password": "rasika@123"
+    },
+    {
+      "id": "a2e0",
+      "name": "jessica",
+      "email": "jess@user.com",
+      "password": "jess@123"
+    },
+    {
+      "id": "7f68",
+      "name": "Rasika Kulkarni",
+      "email": "ritz@seller.com",
+      "password": "rtyuio"
+    }
+  ]
+}
